@@ -19,7 +19,7 @@ func check(e error) {
 }
 
 func main() {
-	fmt.Printf("Asiq's Wpress Extracter.\n")
+	fmt.Printf("Wpress Extracter.\n")
 
 	if len(os.Args) == 2 {
 		pathTofile := os.Args[1]

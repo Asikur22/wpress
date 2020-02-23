@@ -8,7 +8,7 @@ The extractor source code : [https://github.com/yani-/wpress](https://github.com
 
 ## Download link
 
-[Mac - Download now](https://github.com/Asikur22/wpress/tree/master/dist)
+[Mac - Download now](https://github.com/Asikur22/wpress/blob/master/dist/wpress?raw=true)
 \*IMPORTANT FOR MAC: Don't forget to make the binary executable by running a `chmod +x wpress` on the downloaded file via the Terminal.
 
 ## How to extract/open .wpress files ?
